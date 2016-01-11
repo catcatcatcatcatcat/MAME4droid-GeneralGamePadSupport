@@ -7,12 +7,14 @@ If there is a file needed to build, refer to the original project.
 Now base on MAME4droid (0.139u1) 1.9.2 src
 
 Changed files
+
 	android\src\com\seleuco\mame4droid\input\InputHandler.java
 	android\src\com\seleuco\mame4droid\input\InputHandlerExt.java
 	android\src\com\seleuco\mame4droid\prefs\ListKeys.java
 	android\src\com\seleuco\mame4droid\prefs\KeySelect.java
 	
 Description
+
 	Automatic Detect game pad existing MAME4droid is to operate only in a given specific device, Bluetooth-enabled game pad not listed, it was not support multiple users.
 	If it is less than Android 4.4, and is classified by using a DeviceId. Android 4.4 or higher, is classified by using a ControllerNumber.
 	DeviceId the id of all input devices. ControllerNumber the judgment shall be granted in the case of a game pad
