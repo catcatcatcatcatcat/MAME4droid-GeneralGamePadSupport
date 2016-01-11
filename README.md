@@ -24,4 +24,4 @@ Description
 	DeviceId and ControllerNumber are granted when device connect.
 	Therefore, it may be necessary to re-create the settings each time it connects. :)
 	And, D-PAD setting(Up, Down, Left, Right) does not work to the individual.
-	It follows all the correct D-PAD Up setting.
+	It follows all the correct D-PAD "Up" setting.
